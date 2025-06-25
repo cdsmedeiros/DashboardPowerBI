@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2c0adf31-f39d-4fb0-a877-46a4e0be1f1c)
+
+
 ## 🔎 Detalhamento do Dashboard
 
 Este dashboard contém as seguintes informações e visualizações:
