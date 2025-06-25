@@ -13,7 +13,7 @@ Identificação de excessos ou desperdícios por setor.
 Este é um relatório mensal, que será encaminhado aos gerentes dos setores onde há impressoras alugadas.
 Além disso, será desenvolvido um dashboard consolidado com a visão de todos os setores, que será enviado ao Gerente de TI, com o objetivo de apresentar o impacto da ação ao dono da empresa.
 
-==================================================================================================================
+========================================================
 
 ## 🔎 Detalhamento do Dashboard
 
