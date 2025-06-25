@@ -1,6 +1,20 @@
 ![image](https://github.com/user-attachments/assets/2c0adf31-f39d-4fb0-a877-46a4e0be1f1c)
 
 
+Este dashboard apresenta um resumo dos valores relacionados às impressoras alugadas, incluindo a mensalidade de cada equipamento, o valor por folha impressa e a quantidade de folhas utilizadas por setor.
+O objetivo é dar visibilidade ao uso dos recursos e incentivar o consumo consciente.
+
+Benefícios da iniciativa:
+Redução de custos com impressão;
+Uso mais eficiente de papel;
+Contribuição direta para a preservação do meio ambiente;
+Identificação de excessos ou desperdícios por setor.
+
+Este é um relatório mensal, que será encaminhado aos gerentes dos setores onde há impressoras alugadas.
+Além disso, será desenvolvido um dashboard consolidado com a visão de todos os setores, que será enviado ao Gerente de TI, com o objetivo de apresentar o impacto da ação ao dono da empresa.
+
+==================================================================================================================
+
 ## 🔎 Detalhamento do Dashboard
 
 Este dashboard contém as seguintes informações e visualizações:
