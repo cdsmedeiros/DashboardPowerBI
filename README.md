@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/2c0adf31-f39d-4fb0-a877-46a4e0be1f1c)
+![image](https://github.com/user-attachments/assets/f2b560d1-5898-4139-8114-3aa9e9569088)
+
 
 
 Este dashboard apresenta um resumo dos valores relacionados às impressoras alugadas, incluindo a mensalidade de cada equipamento, o valor por folha impressa e a quantidade de folhas utilizadas por setor.
@@ -15,56 +16,75 @@ Além disso, será desenvolvido um dashboard consolidado com a visão de todos o
 
 ========================================================
 
-## 🔎 Detalhamento do Dashboard
+## 📊 Detalhamento do Dashboard - Setor: Artes
 
-Este dashboard contém as seguintes informações e visualizações:
+Este dashboard apresenta os dados de uso e custo da impressora alugada no setor **Artes**, com foco em controle, eficiência e visibilidade mensal.
 
 ---
 
 ### 1. Filtros
-- **Filtro por impressora** (ex: RICOH)
+- **Filtro por setor** (ex: Artes, Financeiro, RH, Cobrança, Compras, Contas a pagar, Artes, Qualidade e Produção)
 
 ---
 
 ### 2. Informações da Impressora Selecionada
-- **Valor por folha**: R$ 0,0542  
-- **Mensalidade**: R$ 195,20  
-- **Patrimônio**: 37991  
-- **Média de páginas mensais**: 1.570  
-- **Valor médio mensal**: R$ 272,96
+- **Valor por folha**: R$ 0,0567  
+- **Mensalidade**: R$ 203,97  
+- **Impressora**: RICOH  
+- **Patrimônio**: 36730
 
 ---
 
-### 3. Navegação por Mês
-- Botões para seleção de mês: **Janeiro, Fevereiro, Março, Abril, Maio, Junho**
+### 3. Indicadores Resumidos
+- **Valor médio mensal**: R$ 233,30  
+- **Valor do mês atual (Junho)**: R$ 236,21  
+  - Meta: R$ 233,30  
+- **Média de páginas mensais**: 626  
+- **Quantidade atual (Junho)**: 569 páginas  
+  - Meta: 625,50 páginas (-9,03%)
 
 ---
 
-### 4. Quantidade de Folhas Impressas por Mês
-Tabela com:
-- **Setor** (ex: Faturamento)
-- Quantidade de páginas por mês (Jan a Jun)
-- **Total acumulado**
+### 4. Gráficos
+
+#### 📈 Valor Total por Mês (R$)
+- Janeiro: R$ 211,18  
+- Fevereiro: R$ 223,15  
+- Março: R$ 218,81  
+- Abril: R$ 277,91  
+- Maio: R$ 232,53  
+- Junho: R$ 236,21
+
+#### 📊 Quantidade de Impressões por Mês
+- Janeiro: 442  
+- Fevereiro: 671  
+- Março: 262  
+- Abril: 1305  
+- Maio: 504  
+- Junho: 569
 
 ---
 
-### 5. Total Cobrado por Folhas no Mês
-Tabela com:
-- Valor cobrado por mês com base nas impressões
-- Soma total do período
+### 5. Tabela: Valor por Impressão no Mês
+| Mês       | Valor Impressão (R$) |
+|-----------|----------------------|
+| Janeiro   | R$ 23,09             |
+| Fevereiro | R$ 35,06             |
+| Março     | R$ 14,84             |
+| Abril     | R$ 73,94             |
+| Maio      | R$ 28,56             |
+| Junho     | R$ 32,24             |
+| **Total** | **R$ 207,74**        |
 
 ---
 
-### 6. Gráfico de Pizza: Total de Páginas Impressas por Mês
-- Representação visual da proporção de páginas impressas de Janeiro a Junho
-
----
-
-### 7. Gráfico de Linha: Valor Total Mensal
-- Evolução mensal do custo total (mensalidade + impressões)
-
----
-
-### 8. Tabela: Valor Total Cobrado por Mês
-- Custo total por mês (mensalidade fixa + custo por folha)
-- **Total acumulado no final: R$ 1.637,76**
+### 6. Tabela: Valor Total Mensal (Mensalidade + Impressão)
+| Mês       | Valor Total (R$)     |
+|-----------|----------------------|
+| Janeiro   | R$ 211,18            |
+| Fevereiro | R$ 239,03            |
+| Março     | R$ 218,81            |
+| Abril     | R$ 277,91            |
+| Maio      | R$ 232,53            |
+| Junho     | R$ 236,21            |
+| **Total** | **R$ 1.399,80**      |
