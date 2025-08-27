@@ -1,3 +1,8 @@
+Atualização 27/08/2025
+<img width="1268" height="712" alt="Dashboard Controle de impressão Alugadas" src="https://github.com/user-attachments/assets/67d13142-c705-4e31-aa27-02732664d067" />
+
+
+Atualização 25/07/2025
 ![image](https://github.com/user-attachments/assets/f2b560d1-5898-4139-8114-3aa9e9569088)
 
 
