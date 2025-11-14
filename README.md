@@ -1,3 +1,11 @@
+Em uma constante evolução, com estudo e pratica, o Dashboard esta ganhando corpo e ficando rico em detalhes.
+
+Atualização feita no dia 13/11/2025 pode ser consultada de forma online (lembrando que os valores valores são fictícios)
+https://app.powerbi.com/view?r=eyJrIjoiNDhmN2IxNTgtYTg0Ni00Mjg5LWE2YjktYmU1MjMyYzZjMjYwIiwidCI6IjJiZjIxMGUwLTU4MjgtNGE5Ny04ZDdhLTkwYTMwY2ZmNWQyNSJ9&embedImagePlaceholder=true
+
+<img width="1856" height="868" alt="image" src="https://github.com/user-attachments/assets/075c8438-3cb3-48ec-91a8-bb5f7b76abc1" />
+
+
 Atualização 27/08/2025
 <img width="1268" height="712" alt="Dashboard Controle de impressão Alugadas" src="https://github.com/user-attachments/assets/67d13142-c705-4e31-aa27-02732664d067" />
 
